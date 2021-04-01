@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Athul Jyothis
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning MTech at IIT Bbs
+- 🌱 I’m currently learning MTech at IIT bhubaneswar
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
