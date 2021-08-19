@@ -1,7 +1,7 @@
-# - 👋 Hi, I’m Athul Jyothis
-### - 👀 I’m interested in Front End Development
-### - 🌱 I’m currently pursuing MTech from IIT bhubaneswar
-## - 📫 My Portfolio website: https://jyothisable.github.io/
+# 👋 Hi, I’m Athul Jyothis
+### 👀 Interested in Front End Development
+### - 🌱 Currently pursuing MTech from IIT bhubaneswar
+### - 📫 My Portfolio Website: https://jyothisable.github.io/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyothisable)](https://github.com/anuraghazra/github-readme-stats)
 
