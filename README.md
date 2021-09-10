@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Athul Jyothis
-### 👀 Interested in Front End Development
+### 👀 Interested in Front End Development, ML and data science.
 ### 🌱 Currently pursuing MTech from IIT bhubaneswar
 ### 📫 My Portfolio Website: https://jyothisable.github.io/
 
